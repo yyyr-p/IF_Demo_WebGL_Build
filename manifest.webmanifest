@@ -1,0 +1,15 @@
+{
+    "name": "构想彼方",
+    "short_name": "构想彼方",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "《构想彼方》是一款校园题材的恋爱视觉小说。你将跟随主角纪望的视角，体验属于铭砂市文科生的独特高三生活。",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
